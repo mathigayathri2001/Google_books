@@ -7,7 +7,7 @@ const googleRoutes = require("./google");
 router.use("/books", bookRoutes);
 
 // Google Routes
-// router.use("/google", googleRoutes);
+router.use("/google", googleRoutes);
 // router.use("/api/google", googleRoutes);
 
 

@@ -9,6 +9,12 @@ import { Col, Row, Container } from "../components/Grid";
 import { List } from "../components/List";
 
 
+
+const button = {
+  background:"rgb(160, 95, 125)",
+  color:"white"
+};
+
 class Home extends Component {
   state = {
     books: [],
@@ -64,6 +70,7 @@ class Home extends Component {
           <Col size="md-12">
             <div className ="style">
             <Jumbotron> 
+              
               <h1 className="text-center" >
                 <strong>Google Books Search</strong>
               </h1>
@@ -98,7 +105,8 @@ class Home extends Component {
                       Button={() => (
                         <button
                           onClick={() => this.handleBookSave(book.id)}
-                          className="btn btn-primary ml-2"
+                          className="btn  ml-2"
+                          style={button}
                         >
                           Save
                         </button>

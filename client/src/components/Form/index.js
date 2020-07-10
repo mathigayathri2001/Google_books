@@ -1,5 +1,10 @@
 import React from "react";
 
+const button = {
+  background:"rgb(160, 95, 125)",
+  color:"white"
+};
+
 function Form({ q, handleInputChange, handleFormSubmit }) {
   return (
     <form>
@@ -22,7 +27,8 @@ function Form({ q, handleInputChange, handleFormSubmit }) {
         <button
           onClick={handleFormSubmit}
           type="submit"
-          className="btn btn-lg btn-danger float-right"
+          className="btn  float-right"
+          style = {button}
         >
           Search
         </button>

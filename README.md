@@ -56,7 +56,6 @@ Run npm start, to use the application locally. User can search the book and stor
 [![MIT](https://img.shields.io/npm/l/isc?color=Blue&style=plastic)](https://img.shields.io/npm/l/isc?color=Blue&style=plastic)
 
 ## Question
-
 https://github.com/mathigayathri2001
 
   <img src= "https://avatars1.githubusercontent.com/u/60233461?v=4" alt = "profile picture" width = "200"/>

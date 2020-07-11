@@ -48,7 +48,7 @@ Run npm start, to use the application locally. User can search the book and stor
 
 
 ## Visuals
-![](Demo/demo.gif)
+![](demo/demo.gif)
 
 
 

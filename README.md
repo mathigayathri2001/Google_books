@@ -1,7 +1,7 @@
 # Google_books
 
 ### Deployed URL:
-https://protected-bayou-45309.herokuapp.com/
+https://google-booksearch1981.herokuapp.com/
 
 ## Badges
 [![gf](https://img.shields.io/github/followers/mathigayathri2001?style=social)](https://img.shields.io/github/followers/mathigayathri2001?style=social)
